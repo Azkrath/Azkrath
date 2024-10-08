@@ -1,11 +1,11 @@
 ### Hey! Azkrath here <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 #### And this is my Github profile (Work in progress 🚧):
-- 🔒 I’m currently working as a Penetration Tester and Application Security Engineer and do some freelance penetration testing
+- 🔒 I’m currently working as a Penetration Tester and Application Security Engineer and also do some Bug Bounty in my spare time.
 - 🌱 I’m currently learning Japanese 🇯🇵 and DevSecOps 📦✔️
-- 📕 I'm currently studying for the CPTS certification, at [Hack The Box](https://academy.hackthebox.com)
-- 💬 You can ask me about anything related to Cyber Security, Penetration Testing and Offensive Security
-- 💻 I have a Cyber Security blog at https://medium.com/azkrath which I might improve it in a near future
-- ⚡ I love Technology, Programming, Cybersecurity, Gaming and IoT/Gadgets. I also enjoy working on my own house network, media servers, CCTV, security systems and automation.
+- 📕 I'm currently studying for the CPTS certification, at [Hack The Box](https://academy.hackthebox.com).
+- 💬 You can ask me about anything related to Cyber Security, Penetration Testing and Offensive Security.
+- 💻 I have a Cyber Security blog at https://medium.com/azkrath which I might improve in a near future.
+- ⚡ I love Technology, Programming, Cybersecurity, Gaming and IoT/Gadgets. I also enjoy working on my own house network, media servers, CCTV, security systems and automation as well as some Game Development.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 ### ✨&nbsp; About Me
-I am a Penetration Tester and Software Engineer, with almost 19 years of experience in IT related work, such as IT Technician,  Technical Support, Software Engineer, Tech lead, Cyber Security Engineer and Penetration Tester. 
+I am a Penetration Tester and Software Engineer, with more than 19 years of experience in IT related work, such as IT Technician, Technical Support, Software Engineer, Tech lead, Cyber Security Engineer and Penetration Tester. 
 
 #### 🏆 Cyber Security related achievements
 - While working at FCCN, my team organised 2 CTF competitions (<a href="https://ctftime.org/event/1420">Defending the SOC</a> and <a href="https://ctftime.org/event/1473">Jornadas 2021</a>) which attracted more than 800 players each. I helped developing several exercises in the following categories: Web, Pwn, OSINT, Forensics, Crypto, Network, Misc and Mission. I was also responsible for implementing and supporting the infrastructure of the CTF during the competition.
