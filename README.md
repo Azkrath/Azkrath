@@ -9,7 +9,6 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-    <a href="https://twitter.com/Azkrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/Azkrath/Azkrath/main/Images/Logos/twitter-x-red.svg" alt="" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/azkrath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Azkrath/Azkrath/main/Images/Logos/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
