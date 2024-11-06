@@ -1,11 +1,11 @@
 ### Hey! Azkrath here <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-#### And this is my Github profile (Work in progress 🚧):
-- 🔒 I’m currently working as a Penetration Tester and Application Security Engineer and also do some Bug Bounty in my spare time.
-- 🌱 I’m currently learning Japanese 🇯🇵 and DevSecOps 📦✔️
-- 📕 I'm currently studying for the CPTS certification, at [Hack The Box](https://academy.hackthebox.com).
-- 💬 You can ask me about anything related to Cyber Security, Penetration Testing and Offensive Security.
-- 💻 I have a Cyber Security blog at https://medium.com/azkrath which I might improve in a near future.
-- ⚡ I love Technology, Programming, Cybersecurity, Gaming and IoT/Gadgets. I also enjoy working on my own house network, media servers, CCTV, security systems and automation as well as some Game Development.
+#### This is my Github profile (Work in progress 🚧):
+- 🔒 Currently a professional Penetration Tester & Application Security Engineer with experience in offensive security.
+- 🌱 Learning Japanese 🇯🇵 as I explore Japanese culture and language in my free time.
+- 🎮 Game Development & Design Enthusiast currently working with Unity and C# while expanding my skills in 2D/3D art and animation to create interactive experiences.
+- 💬 Ask me anything related to technology! With a deep background in software development, cybersecurity, penetration testing, and offensive security, I’m happy to share insights.
+- ✍️ I used to write about Cybersecurity on <a href="https://medium.com/azkrath">ZMedium</a>, check out some of my posts!
+- ⚡ Passionate About Game Development: I love creating games and have worked on both academic and personal projects using Unity and C#. I’m always eager to learn new technologies, explore industry insights, and deepen my knowledge in game design and development.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -13,16 +13,16 @@
 </p>
 
 ### ✨&nbsp; About Me
-I am a Penetration Tester and Software Engineer, with more than 19 years of experience in IT related work, such as IT Technician, Technical Support, Software Engineer, Tech lead, Cyber Security Engineer and Penetration Tester. 
+I’m an IT professional with nearly 20 years of experience across IT roles, including Software Engineering, Cybersecurity and Penetration Testing. My background spans roles from IT Technician and Technical Support to Software Engineer, Tech Lead and Cybersecurity Specialist. With a strong foundation in security and development, I’m now exploring a career shift toward Game Development, driven by a passion for creating engaging, interactive experiences.
 
 #### 🏆 Cyber Security related achievements
-- While working at FCCN, my team organised 2 CTF competitions (<a href="https://ctftime.org/event/1420">Defending the SOC</a> and <a href="https://ctftime.org/event/1473">Jornadas 2021</a>) which attracted more than 800 players each. I helped developing several exercises in the following categories: Web, Pwn, OSINT, Forensics, Crypto, Network, Misc and Mission. I was also responsible for implementing and supporting the infrastructure of the CTF during the competition.
-- I've manage to obtain the eLearnSecurity eJPT certification. You can check it <a href="https://certs.ine.com/9c0cbcf2-153b-4618-887f-ef919d1b49d3#gs.60wjwt">here</a>.
-- I've also managed to obtain the TCM Security PNPT (Professional Network Penetration Tester) certification. You can check it <a href="https://certified.tcm-sec.com/c6db9b75-2dbf-4555-b9b4-425d85909613">here</a>.
-- I've helped produce an article about the cybersecurity risks of internet exposed webcams for a well-known Portuguese technology magazine (Exame Informática <a href="https://visao.pt/exameinformatica/revista-exame-informatica/2022-08-25-exame-informatica-no-327-setembro/">Nº327</a>).
-- While working at Hardsecure (2022), I made two presentations: "The usage of AI in Cybersecurity" and "The importance of Cyber Threat Intelligence".
-- I've managed to won the 1st  place in the write-up submission category and 2nd place as the fastest user to complete the Red Team Capstone Challenge launched by TryHackMe, a known CyberSecurity learning platform. You can read my submission and write-up at <a href="https://tryhackme.com/r/resources/blog/azkraths-red-team-capstone-write-up">this</a> TryHackMe blog post.
-- I've also completed several learning paths at <a href="https://www.tryhackme.com">TryHackMe</a>, such as "Complete Beginner", "Introduction to Cyber Security", "Pre Security", "Web Fundamentals", "Jr Penetration Tester", "Offensive Pentesting", "CompTIA Pentest+" and "Red Teaming".
+- CTF Organization at FCCN: As part of my team, I co-organized two Capture the Flag competitions — (<a href="https://ctftime.org/event/1420">Defending the SOC</a> and <a href="https://ctftime.org/event/1473">Jornadas 2021</a>) — each attracting over 800 participants. I contributed to exercise development across several categories including Web, Pwn, OSINT, Forensics, Crypto, Network, Misc, and Mission, and was responsible for implementing and supporting the competition’s infrastructure.
+- eJPT Certification: I earned the eLearnSecurity Junior Penetration Tester (eJPT) certification, showcasing my penetration testing skills. <a href="https://certs.ine.com/9c0cbcf2-153b-4618-887f-ef919d1b49d3#gs.60wjwt">View Certification</a>.
+- PNPT Certification: I achieved the TCM Security Professional Network Penetration Tester (PNPT) certification, further validating my expertise in network security. <a href="https://certified.tcm-sec.com/c6db9b75-2dbf-4555-b9b4-425d85909613">View Certification</a>.
+- Published Contributor: Co-authored an article on the cybersecurity risks associated with internet-exposed webcams for Portugal’s tech magazine Exame Informática (<a href="https://visao.pt/exameinformatica/revista-exame-informatica/2022-08-25-exame-informatica-no-327-setembro/">Issue Nº327</a>).
+- Presentations at Hardsecure: In 2022, I delivered two presentations on cutting-edge topics: “The Usage of AI in Cybersecurity” and “The Importance of Cyber Threat Intelligence,” sparking discussion on the latest industry insights.
+- TryHackMe Red Team Capstone Challenge: I earned 1st place for my write-up submission and 2nd place for the fastest completion in TryHackMe’s Red Team Capstone Challenge.<a href="https://tryhackme.com/r/resources/blog/azkraths-red-team-capstone-write-up">Read my submission</a>.
+- Learning Path Completions: I’ve completed numerous cybersecurity learning paths on <a href="https://www.tryhackme.com">TryHackMe</a>, including “Complete Beginner,” “Introduction to Cyber Security,” “Pre Security,” “Web Fundamentals,” “Jr Penetration Tester,” “Offensive Pentesting,” “CompTIA Pentest+,” and “Red Teaming.”
 
 <details>
 <summary><b>🛠️&nbsp;&nbsp;Some known Languages&nbsp;and&nbsp;Tools</b></summary>
