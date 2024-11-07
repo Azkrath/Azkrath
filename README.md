@@ -4,7 +4,7 @@
 - 🌱 Learning Japanese 🇯🇵 as I explore Japanese culture and language in my free time.
 - 🎮 Game Development & Design Enthusiast currently working with Unity and C# while expanding my skills in 2D/3D art and animation to create interactive experiences.
 - 💬 Ask me anything related to technology! With a deep background in software development, cybersecurity, penetration testing, and offensive security, I’m happy to share insights.
-- ✍️ I used to write about Cybersecurity on <a href="https://medium.com/azkrath">ZMedium</a>, check out some of my posts!
+- ✍️ I used to write about Cybersecurity on <a href="https://medium.com/azkrath">Medium</a>, check out some of my posts!
 - ⚡ Passionate About Game Development: I love creating games and have worked on both academic and personal projects using Unity and C#. I’m always eager to learn new technologies, explore industry insights, and deepen my knowledge in game design and development.
 
 🔗 &nbsp;**Connect with me**
@@ -13,7 +13,10 @@
 </p>
 
 ### ✨&nbsp; About Me
-I’m an IT professional with nearly 20 years of experience across IT roles, including Software Engineering, Cybersecurity and Penetration Testing. My background spans roles from IT Technician and Technical Support to Software Engineer, Tech Lead and Cybersecurity Specialist. With a strong foundation in security and development, I’m now exploring a career shift toward Game Development, driven by a passion for creating engaging, interactive experiences.
+I’m an IT professional with nearly 20 years of experience across IT roles, including Software Engineering, Cybersecurity and Penetration Testing. My background spans roles from IT Technician and Technical Support to Software Engineer, Tech Lead and Cybersecurity Specialist. With a strong foundation in security and development, I’m now exploring a career shift towards Game Development, driven by a passion for creating engaging, interactive experiences.
+
+#### 🥇 Game Development related achievements
+- Coming Soon...
 
 #### 🏆 Cyber Security related achievements
 - CTF Organization at FCCN: As part of my team, I co-organized two Capture the Flag competitions — (<a href="https://ctftime.org/event/1420">Defending the SOC</a> and <a href="https://ctftime.org/event/1473">Jornadas 2021</a>) — each attracting over 800 participants. I contributed to exercise development across several categories including Web, Pwn, OSINT, Forensics, Crypto, Network, Misc, and Mission, and was responsible for implementing and supporting the competition’s infrastructure.
