@@ -10,6 +10,7 @@
 🔗 &nbsp;**Connect with me**
 <p align="left">
     <a href="https://www.linkedin.com/in/azkrath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Azkrath/Azkrath/main/Images/Logos/linkedin.svg" alt="" height="30" width="40" /></a>
+    <a href="https://bsky.app/profile/azkrath.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/Azkrath/Azkrath/main/Images/Logos/bluesky.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ### ✨&nbsp; About Me
